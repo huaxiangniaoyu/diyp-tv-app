@@ -1,4 +1,4 @@
-# Box
+# Box[ 适合老的安卓设备 armV7a的那种盒子 和老智能电视 ]
 
 === Source Code - Editing the app default settings ===
 /src/main/java/com/github/tvbox/osc/base/App.java
