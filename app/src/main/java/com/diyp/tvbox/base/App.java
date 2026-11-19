@@ -154,7 +154,7 @@ public class App extends MultiDexApplication {
         putDefault(HawkConfig.PARSE_WEBVIEW, true);          //嗅探Webview: true=系统自带, false=XWalkView
         putDefault(HawkConfig.DOH_URL, 0);                   //安全DNS: 0=关闭, 1=腾讯, 2=阿里, 3=360, 4=Google, 5=AdGuard, 6=Quad9
         // DIYP电视: 默认直播源
-        putDefault(HawkConfig.LIVE_URL, "https://gitee.com/iptv-source/iptv/raw/main/iptv.txt");
+        putDefault(HawkConfig.LIVE_URL, "https://text.460114.xyz/sub/123456/jiangsuyidong.txt");
 
     }
 
